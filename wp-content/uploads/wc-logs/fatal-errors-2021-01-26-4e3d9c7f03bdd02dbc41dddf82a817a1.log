@@ -1,0 +1,182 @@
+2021-01-26T02:56:08+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\page.php(35): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:09+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:09+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T02:56:10+00:00 CRITICAL Uncaught Error: Call to undefined function _display_mobile_menu() in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php:24
+Stack trace:
+#0 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(730): require_once()
+#1 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template.php(676): load_template('D:\\TRANG_PROJEC...', true, Array)
+#2 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\404.php(30): get_footer()
+#4 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-includes\template-loader.php(106): include('D:\\TRANG_PROJEC...')
+#5 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-blog-header.php(19): require_once('D:\\TRANG_PROJEC...')
+#6 D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\index.php(17): require('D:\\TRANG_PROJEC...')
+#7 {main}
+  thrown in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\lazienda\footer.php on line 24
+
+2021-01-26T03:13:12+00:00 CRITICAL syntax error, unexpected '?>' in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\header.php on line 32
+
+2021-01-26T03:49:08+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 248
+
+2021-01-26T03:49:09+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 248
+
+2021-01-26T03:49:09+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 248
+
+2021-01-26T03:49:53+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 252
+
+2021-01-26T03:50:18+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 252
+
+2021-01-26T03:50:28+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 252
+
+2021-01-26T03:52:19+00:00 CRITICAL require_once(): Failed opening required 'D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1/wp-content/themes/trttheme/vc-components/vc-soda-blockquote.php' (include_path='C:\xampp\php\PEAR') in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 175
+
+2021-01-26T07:26:30+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\vc-slider-banner-tr.php on line 16
+
+2021-01-26T07:26:30+00:00 CRITICAL syntax error, unexpected ')', expecting variable (T_VARIABLE) in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\vc-slider-banner-tr.php on line 16
+
+2021-01-26T07:34:31+00:00 CRITICAL Cannot declare class VcSodaBlockquote, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\vc-component-demo.php on line 124
+
+2021-01-26T07:34:31+00:00 CRITICAL Cannot declare class VcSodaBlockquote, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\vc-component-demo.php on line 124
+
+2021-01-26T07:35:24+00:00 CRITICAL syntax error, unexpected '>' in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\vc-component-demo.php on line 126
+
+2021-01-26T07:35:55+00:00 CRITICAL require_once(): Failed opening required 'D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1/wp-content/themes/trttheme/vc-components/vc-component-demo.php' (include_path='C:\xampp\php\PEAR') in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 179
+
+2021-01-26T07:35:55+00:00 CRITICAL require_once(): Failed opening required 'D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1/wp-content/themes/trttheme/vc-components/vc-component-demo.php' (include_path='C:\xampp\php\PEAR') in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\functions.php on line 179
+
+2021-01-26T08:42:25+00:00 CRITICAL Cannot declare class TrSliderBanner, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\tr-title-page.php on line 89
+
+2021-01-26T08:43:26+00:00 CRITICAL Cannot declare class TrSliderBanner, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\tr-title-page.php on line 73
+
+2021-01-26T08:45:27+00:00 CRITICAL Cannot declare class TrSliderBanner, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\tr-title-page.php on line 73
+
+2021-01-26T08:46:28+00:00 CRITICAL Cannot declare class TrSliderBanner, because the name is already in use in D:\TRANG_PROJECT_NANOWEB\FEEDBACK\lazienda1\wp-content\themes\trttheme\vc-components\tr-title-page.php on line 73
+
